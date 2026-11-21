@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="right" width="240" src="https://wsrv.nl/?url=i.imgur.com/M3mN5YT.png&w=480&h=480&fit=cover&mask=circle" alt=""/>
+<img align="right" width="240" src="https://i.imgur.com/M3mN5YT.png" alt=""/>
 
 ### 🌸 &nbsp;Hi, I'm Seema
 
