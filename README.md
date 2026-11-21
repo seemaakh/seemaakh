@@ -32,7 +32,7 @@ Most of what's here is coursework and projects I've built while learning.
 
 <div align="center">
 
-### 🌷 &nbsp;My GitHub
+### &nbsp;My GitHub
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seemaakh&theme=radical" height="190" alt="stats"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seemaakh&theme=radical" height="190" alt="languages"/>
