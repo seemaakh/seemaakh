@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="right" width="260" src="https://i.imgur.com/VAFDBTv.png" alt=""/>
+<img align="right" width="260" src="https://i.imgur.com/M3mN5YT.png" alt=""/>
 
 ### 🌸 &nbsp;Hi, I'm Seema
 
